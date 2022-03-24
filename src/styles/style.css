@@ -1,0 +1,24 @@
+.g6-component-toolbar {
+  padding-top: 9px !important;
+  left: 158px !important;
+  padding-bottom: 10px !important;
+}
+
+#toolbar__wrap {
+  left: 0 !important;
+  padding-bottom: 6px !important;
+  border-right: 0px solid #000;
+}
+
+#toolbar__wrap li:last-child {
+  display: none;
+}
+
+#toolbar__wrap li:first-child {
+  margin-right: 25px;
+}
+
+#find {
+  margin-top: 4px;
+  margin-left: 96px;
+}
